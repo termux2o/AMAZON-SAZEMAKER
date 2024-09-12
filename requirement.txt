@@ -1,0 +1,7 @@
+sagemaker
+scikit-learn
+pandas 
+numpy
+ipykernel
+#just install all at once by run on cmd(in vscode terminal) by entering
+#pip install  requirement.txt
